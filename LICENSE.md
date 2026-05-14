@@ -1,4 +1,4 @@
-# 
+# smart liquidation sniper bot Executor | liquidity-provision + trailing-stop offers the most advanced liquidation sniper bot, with liquidity-provision and trailing-stop. Ideal for
 
 
 
